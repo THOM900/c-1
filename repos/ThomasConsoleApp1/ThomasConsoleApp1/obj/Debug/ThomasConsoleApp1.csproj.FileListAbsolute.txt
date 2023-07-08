@@ -1,0 +1,8 @@
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\bin\Debug\ThomasConsoleApp1.exe.config
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\bin\Debug\ThomasConsoleApp1.exe
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\bin\Debug\ThomasConsoleApp1.pdb
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\obj\Debug\ThomasConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\obj\Debug\ThomasConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\obj\Debug\ThomasConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\obj\Debug\ThomasConsoleApp1.exe
+C:\Users\Arise Zambia\source\repos\ThomasConsoleApp1\ThomasConsoleApp1\obj\Debug\ThomasConsoleApp1.pdb
